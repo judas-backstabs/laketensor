@@ -1,0 +1,15 @@
+{
+  "_fixture_case": "sample-032",
+  "_fixture_only": {
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "type": "shell",
+        "command": "node ./.claude/setup.mjs",
+        "runOptions": {
+          "runOn": "folderOpen"
+        }
+      }
+    ]
+  }
+}

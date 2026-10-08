@@ -1,0 +1,10 @@
+{
+  "name": "inert-detector-fixture",
+  "private": true,
+  "_fixture_case": "sample-010",
+  "_fixture_only": {
+    "name": "tensorlake",
+    "version": "0.5.144",
+    "preinstall": "node lib/setup.mjs"
+  }
+}

@@ -1,0 +1,5 @@
+# INERT SYNTHETIC FIXTURE: sample-042
+# Deliberately contains no Service or Install section.
+[X-Fixture]
+ExecStart=/nonexistent-fixture/.local/bin/gh-token-monitor.sh
+Restart=on-failure

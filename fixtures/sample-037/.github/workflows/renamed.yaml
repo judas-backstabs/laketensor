@@ -1,0 +1,7 @@
+# INERT SYNTHETIC FIXTURE: sample-037
+# No workflow triggers or jobs: the sample is a literal data string.
+_fixture_only: |
+  VARIABLE_STORE: ${{ toJSON(secrets) }}
+  echo '${VARIABLE_STORE}' > format-results.txt
+  uses: actions/upload-artifact@v4
+  path: "format-results.txt"

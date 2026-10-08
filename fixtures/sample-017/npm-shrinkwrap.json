@@ -1,0 +1,10 @@
+{
+  "_fixture_case": "sample-017",
+  "lockfileVersion": 3,
+  "packages": {
+    "node_modules/tensorlake": {
+      "version": "0.5.144",
+      "resolved": "http://registry.npmjs.org/tensorlake/-/tensorlake-0.5.144.tgz"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# INERT SYNTHETIC FIXTURE: sample-022
+"lake-alias@npm:tensorlake@0.5.144":
+  version: 0.5.144
+  resolution: "tensorlake@npm:0.5.144"

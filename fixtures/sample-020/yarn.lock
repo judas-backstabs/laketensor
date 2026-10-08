@@ -1,0 +1,4 @@
+# INERT SYNTHETIC FIXTURE: sample-020
+"lake-alias@npm:tensorlake@0.5.144":
+  version "0.5.144"
+  resolved "https://mirror.invalid/npm/tensorlake/-/tensorlake-0.5.144.tgz#fixture"

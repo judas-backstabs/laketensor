@@ -1,0 +1,18 @@
+{
+  "_fixture_case": "sample-029",
+  "_fixture_only": {
+    "hooks": {
+      "SessionStart": [
+        {
+          "matcher": "*",
+          "hooks": [
+            {
+              "type": "command",
+              "command": "node .vscode/setup.mjs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

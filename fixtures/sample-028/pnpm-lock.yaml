@@ -1,0 +1,10 @@
+# INERT SYNTHETIC FIXTURE: sample-028
+lockfileVersion: '9.0'
+importers:
+  .:
+    dependencies:
+      lake-alias:
+        specifier: npm:tensorlake@0.5.144
+        version: tensorlake@0.5.144
+snapshots:
+  tensorlake@0.5.144: {}

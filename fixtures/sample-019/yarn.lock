@@ -1,0 +1,4 @@
+# INERT SYNTHETIC FIXTURE: sample-019
+"tensorlake@^0.5.144":
+  version "0.5.144"
+  resolved "https://registry.yarnpkg.com/tensorlake/-/tensorlake-0.5.144.tgz#fixture"
